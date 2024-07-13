@@ -1,0 +1,28 @@
+# Doctors' Schedule
+
+## Doctor Information
+
+| Doctor Name | Clinic Number | Leave Days    |
+|-------------|---------------|---------------|
+| Dr. Smith   | Clinic 101    | Monday, Friday|
+| Dr. Johnson | Clinic 102    | Wednesday     |
+
+## Appointment Schedule
+
+| Day       | Time     | Doctor   | Clinic Number | Appointment Length |
+|-----------|----------|----------|---------------|--------------------|
+| Monday    | 09:00 AM | Dr. Johnson | Clinic 102 | 30 min             |
+| Monday    | 09:30 AM | Dr. Johnson | Clinic 102 | 30 min             |
+| Monday    | 10:00 AM | Dr. Johnson | Clinic 102 | 30 min             |
+| Tuesday   | 09:00 AM | Dr. Smith   | Clinic 101 | 30 min             |
+| Tuesday   | 09:30 AM | Dr. Smith   | Clinic 101 | 30 min             |
+| Tuesday   | 10:00 AM | Dr. Smith   | Clinic 101 | 30 min             |
+| Wednesday | 09:00 AM | Dr. Smith   | Clinic 101 | 30 min             |
+| Wednesday | 09:30 AM | Dr. Smith   | Clinic 101 | 30 min             |
+| Wednesday | 10:00 AM | Dr. Smith   | Clinic 101 | 30 min             |
+| Thursday  | 09:00 AM | Dr. Johnson | Clinic 102 | 30 min             |
+| Thursday  | 09:30 AM | Dr. Johnson | Clinic 102 | 30 min             |
+| Thursday  | 10:00 AM | Dr. Johnson | Clinic 102 | 30 min             |
+| Friday    | 09:00 AM | Dr. Johnson | Clinic 102 | 30 min             |
+| Friday    | 09:30 AM | Dr. Johnson | Clinic 102 | 30 min             |
+| Friday    | 10:00 AM | Dr. Johnson | Clinic 102 | 30 min             |
